@@ -40,7 +40,7 @@ SaveN'Savor – User Side
 
 1. Clone the Repository
 
-git clone https://github.com/AbdullahSuri/SaveN-Savor.git
+git clone https://github.com/PrakratiMamtani01/SaveNSavour
 
 2. Navigate to the User-Side App Directory
 
